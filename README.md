@@ -1,5 +1,5 @@
 ## Switch WS
-A websocket client library that targets the nintendo switch. It uses [easywsclient](https://github.com/dhbaird/easywsclient) as reference.  You should be able to use this library on linux based operating systems too.
+A websocket client library that targets the nintendo switch. It uses [easywsclient](https://github.com/dhbaird/easywsclient) as reference. 
 
 ### Known issues
 - The library doesn't verify the SSL certificates which might lead to security issues
